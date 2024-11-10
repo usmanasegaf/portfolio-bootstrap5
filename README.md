@@ -8,7 +8,7 @@ Web sudah terhosting dan ada beberapa perubahan lainnya
 
 Cek langsung untuk melihat web terkini:
 
-http://webprofilusman.rf.gd/portfolio/#home
+http://webprofilusman.rf.gd/portfolio
 
 Berikut adalah SS web profil saya:
 
