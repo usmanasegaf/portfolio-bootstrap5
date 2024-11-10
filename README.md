@@ -4,6 +4,9 @@
 
 **21552011174**
 
+WEB:
+https://github.com/usmanasegaf/tugas_kelompok_sesi7.git
+
 Berikut adalah SS web profil saya:
 
 ![ss profil web Home](https://github.com/user-attachments/assets/e76cc53b-0846-4595-88f5-934a729a3f76)
