@@ -5,7 +5,7 @@
 **21552011174**
 
 WEB:
-https://github.com/usmanasegaf/tugas_kelompok_sesi7.git
+http://webprofilusman.rf.gd/portfolio/#home
 
 Berikut adalah SS web profil saya:
 
