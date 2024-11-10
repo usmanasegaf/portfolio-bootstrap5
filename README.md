@@ -4,7 +4,10 @@
 
 **21552011174**
 
-WEB:
+Web sudah terhosting dan ada beberapa perubahan lainnya
+
+Cek langsung untuk melihat web terkini:
+
 http://webprofilusman.rf.gd/portfolio/#home
 
 Berikut adalah SS web profil saya:
