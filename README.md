@@ -22,7 +22,7 @@ versi github tidak lambat, dan vidionya sendiri MP4 yang teroptimasi karna hanya
 
 Berikut adalah SS web profil saya:
 
-![ss profil web Home](https://github.com/user-attachments/assets/e76cc53b-0846-4595-88f5-934a729a3f76)
+![new ss home portfolio](https://github.com/user-attachments/assets/143fe369-eb2c-4b5c-8a8f-7a33b5b9e9bb)
 
 ![ss profil web About Me](https://github.com/user-attachments/assets/52bb94e4-7ce4-4e19-96ff-0c89797833ce)
 
