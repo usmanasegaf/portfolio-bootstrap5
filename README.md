@@ -30,6 +30,8 @@ Berikut adalah SS web profil saya:
 
 ![ss web profil myskills 2](https://github.com/user-attachments/assets/877ca845-85b5-4bf5-a8db-a224795fabb6)
 
+![ss web profil other project example](https://github.com/user-attachments/assets/4e9bbbb1-a05b-4508-b0ba-8f11d16c69ed)
+
 ![ss web profil Contact me dengan social media dan footer](https://github.com/user-attachments/assets/f40f94b2-4826-4820-90eb-37d5cdaf2557)
 
 
