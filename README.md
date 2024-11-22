@@ -26,7 +26,7 @@ Berikut adalah SS web profil saya:
 
 ![ss profil web About Me](https://github.com/user-attachments/assets/52bb94e4-7ce4-4e19-96ff-0c89797833ce)
 
-![ss web profil my skill 1](https://github.com/user-attachments/assets/ce5603b1-58a2-4a58-be61-1bd97928ad3d)
+![new ss my skill ss 1](https://github.com/user-attachments/assets/2cd501a4-9e61-443c-a494-7a221dc95f2c)
 
 ![ss web profil myskills 2](https://github.com/user-attachments/assets/877ca845-85b5-4bf5-a8db-a224795fabb6)
 
